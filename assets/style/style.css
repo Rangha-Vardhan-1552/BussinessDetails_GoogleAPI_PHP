@@ -1,0 +1,16 @@
+.place-icon{
+    height: 42px;
+}
+.review_user_pic {
+    width: 42px;
+    vertical-align: middle;
+}
+.accordion-loading {
+    max-width: 350px;
+}
+.main-loading {
+    max-height: 415px;
+}
+.loader-contanier {
+    align-items: center;
+}
